@@ -1,4 +1,4 @@
-package sbkmvcpet;
+package com.sbk.sbkmvcpet;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
