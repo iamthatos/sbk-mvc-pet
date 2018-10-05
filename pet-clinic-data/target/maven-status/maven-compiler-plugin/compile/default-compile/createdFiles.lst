@@ -1,0 +1,5 @@
+com\sbk\sbkmvcpet\model\Pet.class
+com\sbk\sbkmvcpet\model\Person.class
+com\sbk\sbkmvcpet\model\Owner.class
+com\sbk\sbkmvcpet\model\Vet.class
+com\sbk\sbkmvcpet\model\PetType.class
