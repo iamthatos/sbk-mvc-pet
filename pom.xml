@@ -54,7 +54,6 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/iamthatos/sbk-mvc-pet.git</developerConnection>
-      <tag>sbk-mvc-pet-0.0.1</tag>
   </scm>
 
 </project>
