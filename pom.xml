@@ -4,7 +4,7 @@
 
 	<groupId>com.sbk</groupId>
 	<artifactId>sbk-mvc-pet</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	
     <modules>
         <module>pet-clinic-data</module>
@@ -54,6 +54,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/iamthatos/sbk-mvc-pet.git</developerConnection>
+    <tag>sbk-mvc-pet-0.0.2</tag>
   </scm>
 
 </project>
