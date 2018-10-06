@@ -1,2 +1,3 @@
-com\sbk\sbkmvcpet\controllers\IndexController.class
+com\sbk\sbkmvcpet\controllers\VetController.class
 com\sbk\sbkmvcpet\SbkMvcPetApplication.class
+com\sbk\sbkmvcpet\controllers\IndexController.class
