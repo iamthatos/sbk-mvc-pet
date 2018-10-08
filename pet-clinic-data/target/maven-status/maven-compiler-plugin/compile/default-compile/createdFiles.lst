@@ -4,9 +4,11 @@ com\sbk\sbkmvcpet\services\VetService.class
 com\sbk\sbkmvcpet\model\Owner.class
 com\sbk\sbkmvcpet\services\map\PetTypeMapService.class
 com\sbk\sbkmvcpet\services\map\OwnerServiceMap.class
+com\sbk\sbkmvcpet\services\SpecialityService.class
 com\sbk\sbkmvcpet\services\OwnerService.class
 com\sbk\sbkmvcpet\model\PetType.class
 com\sbk\sbkmvcpet\services\CrudService.class
+com\sbk\sbkmvcpet\services\map\SpecialityServiceMap.class
 com\sbk\sbkmvcpet\model\Visit.class
 com\sbk\sbkmvcpet\services\PetTypeService.class
 com\sbk\sbkmvcpet\model\Speciality.class

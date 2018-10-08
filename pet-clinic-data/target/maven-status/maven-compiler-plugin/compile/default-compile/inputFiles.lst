@@ -7,12 +7,14 @@ C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\jav
 C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\services\map\AbstractMapService.java
 C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\services\CrudService.java
 C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\model\BaseEntity.java
+C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\services\SpecialityService.java
 C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\services\map\OwnerServiceMap.java
 C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\model\Pet.java
 C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\services\map\VetServiceMap.java
 C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\model\Speciality.java
 C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\model\PetType.java
 C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\services\map\PetServiceMap.java
+C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\services\map\SpecialityServiceMap.java
 C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\model\Person.java
 C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\services\PetTypeService.java
 C:\Users\dell\Desktop\Spring\recipe-app\sbk-mvc-pet\pet-clinic-data\src\main\java\com\sbk\sbkmvcpet\services\VetService.java
