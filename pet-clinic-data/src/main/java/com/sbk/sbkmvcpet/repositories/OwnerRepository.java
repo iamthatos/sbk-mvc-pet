@@ -1,0 +1,7 @@
+package com.sbk.sbkmvcpet.repositories;
+
+import com.sbk.sbkmvcpet.model.Owner;
+import org.springframework.data.repository.CrudRepository;
+
+public interface OwnerRepository extends CrudRepository<Owner, Long>{
+}
