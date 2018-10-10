@@ -1,7 +1,11 @@
+com\sbk\sbkmvcpet\services\map\VisitServiceMap.class
 com\sbk\sbkmvcpet\model\Person.class
+com\sbk\sbkmvcpet\services\springdatajpa\PetSDJpaService.class
 com\sbk\sbkmvcpet\repositories\OwnerRepository.class
+com\sbk\sbkmvcpet\services\springdatajpa\SpecialitySDJpaService.class
 com\sbk\sbkmvcpet\services\SpecialityService.class
 com\sbk\sbkmvcpet\services\OwnerService.class
+com\sbk\sbkmvcpet\services\springdatajpa\PetTypeSDJpaService.class
 com\sbk\sbkmvcpet\services\CrudService.class
 com\sbk\sbkmvcpet\services\map\SpecialityServiceMap.class
 com\sbk\sbkmvcpet\repositories\PetTypeRepository.class
@@ -14,10 +18,13 @@ com\sbk\sbkmvcpet\repositories\VetRepository.class
 com\sbk\sbkmvcpet\repositories\PetRepository.class
 com\sbk\sbkmvcpet\services\map\PetTypeMapService.class
 com\sbk\sbkmvcpet\services\map\OwnerServiceMap.class
+com\sbk\sbkmvcpet\services\VisitService.class
 com\sbk\sbkmvcpet\repositories\VisitRepository.class
 com\sbk\sbkmvcpet\model\PetType.class
+com\sbk\sbkmvcpet\services\springdatajpa\VetSDJpaService.class
 com\sbk\sbkmvcpet\model\Visit.class
 com\sbk\sbkmvcpet\services\PetTypeService.class
+com\sbk\sbkmvcpet\services\springdatajpa\VisitSDJpaService.class
 com\sbk\sbkmvcpet\model\Speciality.class
 com\sbk\sbkmvcpet\services\map\PetServiceMap.class
 com\sbk\sbkmvcpet\model\BaseEntity.class
